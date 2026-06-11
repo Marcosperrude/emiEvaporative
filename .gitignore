@@ -1,5 +1,13 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data science / GIS
 *.pkl
 *.nc
 *.tif
@@ -8,8 +16,16 @@ __pycache__/
 *.dbf
 *.shx
 *.csv
+
+# Pastas de projeto
 data/
-outputs/
 inputs/
+outputs/
 results/
+
+# Ambiente virtual
 venv/
+.env
+
+# Sistema
+.DS_Store
