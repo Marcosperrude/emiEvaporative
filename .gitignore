@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pkl
+*.nc
+*.tif
+*.tiff
+*.shp
+*.dbf
+*.shx
+*.csv
+data/
+outputs/
+inputs/
+results/
+venv/
